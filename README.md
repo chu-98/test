@@ -1,3 +1,14 @@
+# Git 커밋 메시지 컨벤션 Rule
+영어라면 명령조, 한글이라면 구문 작성\
+모두 현재형으로 작성\
+앞에 태그를 달아주자
+
+## 태그
+feat: 새로운 기능 추가\
+fix: 버그 수정\
+docs: 문서 수정\
+refactor: 코드 리팩토링
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
