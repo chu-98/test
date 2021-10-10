@@ -24,5 +24,3 @@ function App() {
 }
 
 export default App;
-
-// 바뀌나?
